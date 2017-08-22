@@ -1,9 +1,7 @@
 var myStudentApp = angular.module('myStudentApp', ['ngRoute', 'ngAnimate']);
 
-myStudentApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
+myStudentApp.config(['$routeProvider', function($routeProvider){
 
-  $locationProvider.html5Mode(true);
-  
   $routeProvider
     .when('/home', {
       templateUrl: 'views/home.html',
