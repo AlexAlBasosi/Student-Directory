@@ -1,0 +1,49 @@
+[{
+	"firstName": "Alexander",
+	"lastName": "Al Basosi",
+	"studentID": 4563293,
+	"balance": 5500,
+	"enrolled": true,
+	"status": "yellow",
+	"thumb": "content/img/alexander.png"
+}, {
+	"firstName": "Aayushi",
+	"lastName": "Jethwani",
+	"studentID": 4523549,
+	"balance": 11000,
+	"enrolled": true,
+	"status": "red",
+	"thumb": "content/img/aayushi.png"
+}, {
+	"firstName": "Donna",
+	"lastName": "Venezuela",
+	"studentID": 1243532,
+	"balance": 6250,
+	"enrolled": true,
+	"status": "yellow",
+	"thumb": "content/img/donna.ico"
+}, {
+	"firstName": "Chirag",
+	"lastName": "Patel",
+	"studentID": 2634253,
+	"balance": 12500,
+	"enrolled": true,
+	"status": "red",
+	"thumb": "content/img/chirag.png"
+}, {
+	"firstName": "Anem",
+	"lastName": "Imran",
+	"studentID": 5324323,
+	"balance": 3500,
+	"enrolled": true,
+	"status": "green",
+	"thumb": "content/img/anem.png"
+}, {
+	"firstName": "Tauhid",
+	"lastName": "Junaid",
+	"studentID": 3423534,
+	"balance": 11000,
+	"enrolled": true,
+	"status": "red",
+	"thumb": "content/img/tauhid.png"
+}]
